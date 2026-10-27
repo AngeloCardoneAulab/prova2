@@ -1,0 +1,217 @@
+[
+    {
+        "id":1,
+        "name": "Hybrid RN",
+        "category": "Scarpe",
+        "price": "139",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/58d40bbb-9e4e-421e-9bd4-dfce5ab2b3f2/M+NIKE+HYBRID+RN.png"
+    },
+    {
+        "id": 2,
+        "name": "P-6000",
+        "category": "Scarpe",
+        "price": "119",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/fb1addb3-4a0e-42b3-ba15-70ba134f2bd3/NIKE+P-6000.png"
+    },
+    {
+        "id": 3,
+        "name": "Air Max 90",
+        "category": "Scarpe",
+        "price": "104",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f6241423-e2e1-4779-8f6c-5f6f3d4ae618/NIKE+AIR+MAX+90.png"
+    },
+    {
+        "id": 4,
+        "name": "Jordan 4 rétro Flight Club",
+        "category": "Scarpe",
+        "price": "209",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e7ca4c33-67d7-4dc1-95cc-af8313396199/AIR+JORDAN+4+RETRO+OG+FC.png"
+    },
+    {
+        "id": 5,
+        "name": "Air Force 1 Denim",
+        "category": "Scarpe",
+        "price": "130",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4773b1df-8c17-4199-8105-4935dafd8a25/AIR+FORCE+1+%2707+LV8.png"
+    },
+    {
+        "id": 6,
+        "name": " Dunk Low",
+        "category": "Scarpe",
+        "price":"120",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/42b44eca-5b53-4ad4-a015-830c4044382d/NIKE+DUNK+LOW.png"
+    },
+    {
+        "id": 7,
+        "name": "Vomero Plus",
+        "category": "Scarpe",
+        "price": "143",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a849a4df-bda8-4fa4-9c69-2784c81c4406/W+NIKE+VOMERO+PLUS.png"
+    },
+    {
+        "id": 8,
+        "name": "G.T. Future",
+        "category": "Scarpe",
+        "price": "140",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/10f746da-b8ed-4222-8e97-669ff8de4e8d/G.T.+FUTURE.png"
+    },
+    {
+        "id": 9,
+        "name": "Primary NanoKnit",
+        "category": "Felpe",
+        "price": "54",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5a5a21fb-be72-404e-b28a-9bbd4bb89e9c/M+NK+DF+UV+PRMRY+NANO+FZ+HD.png"
+    },
+    {
+        "id": 10,
+        "name": "Nike Velocity",
+        "category": "Felpe",
+        "price": "75",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2a3cc686-2f18-4a10-b0f7-9af885865cc4/M+NK+TF+VLCTY+HOODIE+LC.png"
+    },
+    {
+        "id": 11,
+        "name": "Jordan Brooklyn",
+        "category": "Felpe",
+        "price": "52",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/365568eb-0cb2-4955-b5ec-ab7b5b9f9cf2/M+J+BRK+CB+ST+FLC+PO.png"
+    },
+    {
+        "id": 12,
+        "name": "Nike 24.7 ImpossiblySoft",
+        "category": "Felpe",
+        "price": "119",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/00d8d5d2-2d12-414c-bf1f-f3da0bc3b210/W+NK+24.7+DF+CREW+SOFT+KNIT.png"
+    },
+   
+    {
+        "id": 13,
+        "name": "Nike Studio Fleece",
+        "category": "Felpe",
+        "price": "69",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/67fe4dd8-fd43-4b1b-b45c-fa8e24df0439/W+NK+STDO+FLC+OS+CREW+CLS%2B.png"
+    },
+    {
+        "id": 14,
+        "name": "Jordan Flight Fleece",
+        "category": "Felpe",
+        "price": "86",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ce51b35e-9a53-4153-ac4f-d0921993ca26/W+J+FLT+FLC+FT+FZ+MOD+CROP.png"
+    },
+    {
+        "id": 15,
+        "name": "Nike Sportswear Classic",
+        "category": "Maglie",
+        "price": "18",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/321f18f8-a854-4405-86d7-da27fad6f8c4/W+NSW+NK+CLSC+BF+TEE+GRF2.png"
+    },
+    {
+        "id": 16,
+        "name": "Jordan Market",
+        "category": "Maglie",
+        "price": "28",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/fb18fb59-c701-4f7a-a059-053b44ed8404/W+J+MARKET+OVS+TEE.png"
+    },
+    {
+        "id": 17,
+        "name": "Nike Pro",
+        "category": "Maglie",
+        "price": "34",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/934da4c6-58b0-4336-b207-0c0693322a14/M+NP+DF+TIGHT+TOP+LS.png"
+
+    },
+    {
+        "id": 18,
+        "name": "Nike Golf",
+        "category": "Maglie",
+        "price": "50",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/916a1a24-81d5-42a0-bab8-349a546f0693/W+NK+GOLF+SS+POLO.png"
+    },
+    {
+        "id": 19,
+        "name": "NikeCourt Slam",
+        "category": "Maglie",
+        "price": "100",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a2a53edd-6aee-4f77-95a3-98b56ee7811a/M+NKCT+DF+SLAM+U1+TANK+NY.png"
+    },
+
+    {
+        "id": 20,
+        "name": "Nike Unlimited",
+        "category": "Pantaloni",
+        "price": "60",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/10bab8e9-8c9c-4285-9249-e5f4d2533600/M+NK+DF+UNLIMITED+PANT+TPR.png"
+    },
+    {
+        "id": 21,
+        "name": "Nike Tech P",
+        "category": "Pantaloni",
+        "price": "150",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/ba9722f6-e01b-43d4-9bc3-7a8ee1d81e96/M+NK+TECH+FLC+PRO+CB+OH+PANT.png"
+    },
+    {
+        "id": 22,
+        "name": "Jordan Flight P ",
+        "category": "Pantaloni",
+        "price": "32",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6fb4d669-e5cf-46c4-bf55-243d6b8dc055/M+J+FLT+CORD+PANT.png"
+    },
+    {
+        "id": 23,
+        "name": "Nike Pro Dri-FIT",
+        "category": "Pantaloni",
+        "price": "38",
+        "image" : "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6f7b250a-f838-4372-8176-09483f89871b/G+NP+LEGGING.png"
+    },
+    {
+        "id": 24,
+        "name": "Nike Sportswear fleece",
+        "category": "Pantaloni",
+        "price": "47",
+        "image" : "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/46fca5ee-933f-4519-9b39-5758b5d4c92e/G+NSW+FLC+PANT+FA26.png"
+
+    },
+    {
+        "id": 25,
+        "name": "Nike Studio",
+        "category": "Pantaloni",
+        "price": "45",
+        "image" : "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4e89d55b-96cf-461f-a0d8-22c44828fdd5/G+NSW+STDO+FLC+LSE+PNT+GFX.png"
+    },
+    {
+        "id": 26,
+        "name": "Nike Article Oversize",
+        "category": "Giacche",
+        "price": "100",
+        "image" : "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9f92ce35-d309-4d87-9570-207fe3a43358/W+NK+ARTICLE+FLC+JKT.png"
+    },
+    {
+        "id": 27,
+        "name": "ACG Skull Peak Dolomite",
+        "category": "Giacche",
+        "price": "340",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto/3ec13ede-c62f-42d0-9ed5-282628ca595e/U+ACG+SF+SKL+PK+DOLOMIT+JKT.png"
+    },
+    {
+        "id": 28,
+        "name": "Jordan Flu-pile",
+        "category": "Giacche",
+        "price": "135",
+        "image" : "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2dbe14cd-be49-4050-a3ff-51086f228b3e/M+J+FLT+MTNSIDE+SHERPA.png"
+    },
+    {
+        "id": 29,
+        "name": "Jordan Sport Therma-FIT",
+        "category": "Giacche",
+        "price": "250",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4656ce3f-0d25-4b0f-93ef-9ae8227414c0/M+J+TF+SPRT+STMT+MDWT+JKT.png"
+    },
+   
+    {
+        "id": 30,
+        "name": "Nike Miler AeroLayer ",
+        "category": "Giacche",
+        "price": "155",
+        "image": "https://static.nike.com/a/images/t_web_pdp_535_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1902aab9-cd61-4810-9dfd-2b4fa0db7d77/M+NK+TF+MILER+AEROLAYER+JKT.png"
+    }
+]

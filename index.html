@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SHOP TAILWIND</title>
+    <!-- DAISY UI CSS CDN  -->
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@5" rel="stylesheet" type="text/css" />
+    <!-- TAILWIND CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+<body>
+
+
+        <nav class="navbar bg-gray-300 shadow-sm h-20">
+            <div class="">
+                <div class="dropdown">
+                <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
+                    <svg aria-label="Menu" xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"> <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /> </svg>
+                </div>
+
+                <ul
+                    tabindex="-1"
+                    class="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow ">
+                    <li><a>Home</a></li>
+                    <li>
+                    <a>Annunci</a>
+
+                    </li>
+                    <li><a>Social</a></li>
+                </ul>
+
+                </div>
+                <a class="btn btn-ghost text-xl hover:bg-transparent border-transparent shadow-none">
+                    <img class="w-20 " src="./media/logoBlack.png " alt="">
+                </a>
+            </div>
+            <div class="navbar-center hidden lg:flex">
+                <ul class="menu menu-horizontal px-1">
+                <li>
+                    <a class="hover:bg-transparent">Home</a>
+                </li>
+                <li>    
+                    <a class="hover:bg-transparent">Annunci</a>
+                
+                </li>
+                <li>
+                    <a class="hover:bg-transparent">Social</a>
+                </li>
+                </ul>
+            </div>
+            <!-- <div class="navbar-end">
+                <a class="btn bg-transparent hover:bg-orange-100 me-2 shadow-none">Accedi</a>
+                <a class="btn bg-transparent hover:bg-orange-100 shadow-none">Registrati</a>
+            </div> -->
+            
+        </nav>
+
+
+
+
+        <header class="grid grid-cols-1">
+            <div class="h-50 font-bold text-yellow-500 mt-5 ">
+                    <h1 class="text-color text-xl">LA NOSTRA COLLEZIONE</h1>
+            </div>
+        </header>
+
+
+
+        <main>
+
+            <section >
+                <div class=" grid grid-cols-4 h-[100vh]" >
+                    <div class="">
+                        <h2 class="text-red-900 text-xl">FILTRI:</h2>
+                        <div class="mt-3 p-1">
+
+                            <h5>CATEGORIA</h5>
+                            <div>
+                                <div class="flex items-center">
+                                    <input class="accent-orange-600" type="radio"name="category" id="All"checked>
+                                    <label for="" class="ms-2"> Tutte le categorie </label>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="mt-3 p-1">
+                            <h5>PREZZO</h5>
+                            <div>
+                                <div class="flex items-center">
+                                    <input type="range"
+                                        class="accent-orange-600 w-100">
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="mt-3 p-1">
+                            <h5>PAROLA</h5>
+                            <div>
+                                <div class="flex items-center">
+                                    <input
+                                        type="text"
+                                        class="text-control w-100 border-gray-300 rounded-full "
+                                    >
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class=" col-span-3 text-center ">
+
+                        <h2 class="text-red-900 text-xl">PRODOTTI</h2>
+
+                        <div class="w-full">
+
+                            <div class="flex flex-wrap">
+
+                        
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+            </section>
+        </main> 
+
+
+
+
+<script src="https://kit.fontawesome.com/d067719bfa.js" crossorigin="anonymous"></script>
+<script src="./main.js"></script>
+    
+</body>
+</html>
